@@ -1,6 +1,22 @@
 [
   {
-    "title": "this is a post",
-    "content": "asdasfassdgdfgssdvsd"
+    "title": "New Computer",
+    "content": "Checkout this new PC"
+  },
+  {
+    "title": "New Graphics Card",
+    "content": "Checkout this new  Graphics Card"
+  },
+  {
+    "title": "New Software",
+    "content": "Checkout this new Software"
+  },
+  {
+    "title": "New Laptop",
+    "content": "Checkout this new Laptop"
+  },
+  {
+    "title": "New Data",
+    "content": "Checkout this new Data"
   }
 ]

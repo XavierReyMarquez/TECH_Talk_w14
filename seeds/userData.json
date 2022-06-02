@@ -2,6 +2,21 @@
   {
     "username": "xavier",
     "password": "password",
-    "email": "email@gmail.com"
+    "email": "xavier@gmail.com"
+  },
+  {
+    "username": "Rico",
+    "password": "password",
+    "email": "Rico@gmail.com"
+  },
+  {
+    "username": "hector",
+    "password": "password",
+    "email": "hector@gmail.com"
+  },
+  {
+    "username": "Carlos",
+    "password": "password",
+    "email": "Carlos@gmail.com"
   }
 ]
